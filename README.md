@@ -10,7 +10,7 @@ Paste any Terms of Service, Privacy Policy, EULA, NDA, or contract. Get the sket
 ![Preview](3.png)
 ---
 
-FRONTEND_URL = 
+FRONTEND_URL = https://legalsimplify-1.onrender.com
 
 ---
 
